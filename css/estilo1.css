@@ -1,0 +1,37 @@
+
+*{
+    margin: 50px;
+}
+
+.center{
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1{
+    padding: 10px;
+    border: 15px;
+    border-style: dashed;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p{
+    color: greenyellow;
+    text-align: justify;
+}
+
+/* ES mas conveniente usar porcentajes,
+para el ajuste en el uso responsivo. */
+img{
+    width: 40%;
+}
+
