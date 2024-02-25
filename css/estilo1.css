@@ -29,9 +29,15 @@ p{
     text-align: justify;
 }
 
+div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* flex-wrap: wrap; */
+}
 /* ES mas conveniente usar porcentajes,
 para el ajuste en el uso responsivo. */
 img{
-    width: 40%;
+    width: 70%;
 }
 
